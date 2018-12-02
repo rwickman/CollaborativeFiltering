@@ -8,5 +8,5 @@ python collab_filiter.py
 ```
 1. Enter the a value of k to use (for the KNN algorithm). Just press enter if you want to use the default.
 2. It will perfrom preprocessing steps, such as reading in the data and computing the weights. You may need to wait a few seconds for it to finish.
-3. Enter a valid move ID user ID (these can be found in the dataset under data/data-full.txt).
+3. Enter a valid movie ID and user ID (these can be found in the dataset under data/data-full.txt).
 4. If you did the previous steps correctly, then you should see a predicted rating! 
