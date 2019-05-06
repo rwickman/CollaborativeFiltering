@@ -2,7 +2,7 @@
 ## What is it?
 It is an item-item collaborative filtering algorithm that is trained on a subset of the Netflix dataset. Given a valid user ID and movie ID it will use k-nearest neighbors algorithm to predict the rating that the user would give the movie.
 ## How to run
-I built everthing from scratch so no dependencies required! Just do:
+I built everything from scratch so no dependencies required! Just do:
 ```python
 python collab_filiter.py
 ```
